@@ -17,24 +17,24 @@ Suponha que, em uma ação de marketing, para atrair mais entregadores, vamos da
 O time de Pricing precisa ajustar os valores pagos aos entregadores. Para isso, eles precisam da distribuição da distância média percorrida pelos motoqueiros separada por estado, já que cada região terá seu preço.
 
 As conclusões encontradas a partir da análise são:
-Aproximadamente 72% dos entregadores são freelancers e aproximadamente 28% são operadores de logística
-Aproximadamente 73% dos entregadores são motoboys e aproximadamente 27% são ciclistas
-Aproximadamente 89% das lojas vendem food
-Cerca de 11% das lojas vendem good
-A média de distância percorrida pelos 20 motoboys que mais fizeram deliveries é aproximadamente 7597 km
-Desses 20, 60% dos entregadores é do tipo freelance e 40% é do tipo logistic operator.
-10 motoboys percorreram entre 2967.23 e 3651.29 km
-A média de distância percorrida pelos 20 ciclistas que mais fizeram deliveries é de 608.11 km
-Desses 20, todos são freelancers
-10 ciclistas percorreram 524.12 km e 617.13 km
-O estado com maior distância mediana para food é o Rio Grande do Sul
-Os estados com maior mediana para good são Rio Grande do Sul e São Paulo
-O estado com menor mediana para food é São Paulo
-O estado com menor mediana para good é o Rio de Janeiro
-A receita líquida média das lojas que vendem good é quase o triplo da receita média bruta das lojas que vendem food
-O Rio Grande do Sul possui a maior receita líquida média e a segunda menor para os bens de tipo food.
-O Rio de Janeiro possui a menor para os bens de tipo good e a segunda maior receita líquida média para os bens de tipo food, atrás apenas de São Paulo
-O Paraná possui a menor receita líquida média para os bens de tipo food
-Apesar das receitas líquidas médias serem maiores para o tipo de bem good, a receita líquida total das lojas que vendem food é aproximadamente 3 vezes maior do que aquelas que vendem good
-O Rio Grande do Sul, que possuía a receita líquida média mais alta para os goods, apresenta a segunda menor receita líquida total
+- Aproximadamente 72% dos entregadores são freelancers e aproximadamente 28% são operadores de logística
+- Aproximadamente 73% dos entregadores são motoboys e aproximadamente 27% são ciclistas
+- Aproximadamente 89% das lojas vendem food
+- Cerca de 11% das lojas vendem good
+- A média de distância percorrida pelos 20 motoboys que mais fizeram deliveries é aproximadamente 7597 km
+- Desses 20, 60% dos entregadores é do tipo freelance e 40% é do tipo logistic operator.
+- 10 motoboys percorreram entre 2967.23 e 3651.29 km
+- A média de distância percorrida pelos 20 ciclistas que mais fizeram deliveries é de 608.11 km
+- Desses 20, todos são freelancers
+- 10 ciclistas percorreram 524.12 km e 617.13 km
+- O estado com maior distância mediana para food é o Rio Grande do Sul
+- Os estados com maior mediana para good são Rio Grande do Sul e São Paulo
+- O estado com menor mediana para food é São Paulo
+- O estado com menor mediana para good é o Rio de Janeiro
+- A receita líquida média das lojas que vendem good é quase o triplo da receita média bruta das lojas que vendem food
+- O Rio Grande do Sul possui a maior receita líquida média e a segunda menor para os bens de tipo food.
+- O Rio de Janeiro possui a menor para os bens de tipo good e a segunda maior receita líquida média para os bens de tipo food, atrás apenas de São Paulo
+- O Paraná possui a menor receita líquida média para os bens de tipo food
+- Apesar das receitas líquidas médias serem maiores para o tipo de bem good, a receita líquida total das lojas que vendem food é aproximadamente 3 vezes maior do que aquelas que vendem good
+- O Rio Grande do Sul, que possuía a receita líquida média mais alta para os goods, apresenta a segunda menor receita líquida total
 São Paulo e Rio de Janeiro lideram as receitas
