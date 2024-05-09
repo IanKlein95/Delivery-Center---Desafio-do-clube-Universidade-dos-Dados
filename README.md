@@ -4,13 +4,14 @@ Esse conjunto de dados representa uma plataforma integrada de lojistas e marketp
 
 Ele é formado por diferentes datasets. São elas:
 
-channels: este dataset possui informações sobre os canais de venda (marketplaces) onde são vendidos os produtos dos lojistas.
-deliveries: este dataset possui informações sobre as entregas realizadas pelos entregadores parceiros.
-drivers: este dataset possui informações sobre os entregadores.
-hubs: Este dataset possui informações sobre os hubs (centros de distribuição dos pedidos da onde saem as entregas).
-orders: este dataset possui informações sobre as vendas processadas através da plataforma.
-payments: este dataset possui informações sobre os pagamentos realizados.
-stores: este dataset possui informações sobre os lojistas que utilizam a plataforma para vender seus itens.
+- channels: este dataset possui informações sobre os canais de venda (marketplaces) onde são vendidos os produtos dos lojistas.
+- deliveries: este dataset possui informações sobre as entregas realizadas pelos entregadores parceiros.
+- drivers: este dataset possui informações sobre os entregadores.
+- hubs: Este dataset possui informações sobre os hubs (centros de distribuição dos pedidos da onde saem as entregas).
+- orders: este dataset possui informações sobre as vendas processadas através da plataforma.
+- payments: este dataset possui informações sobre os pagamentos realizados.
+- stores: este dataset possui informações sobre os lojistas que utilizam a plataforma para vender seus itens.
+
 As perguntas a seguir intentam responder à um desafio do clube Universidade dos Dados:
 
 Suponha que, em uma ação de marketing, para atrair mais entregadores, vamos dar uma bonificação para os 20 entregadores que possuem maior distância percorrida ao todo. A bonificação vai variar de acordo com o tipo de profissional que ele é e o modelo que ele usa para se locomover. É preciso levantar, então, essas informações.
