@@ -14,8 +14,8 @@ Ele é formado por diferentes datasets. São elas:
 
 As perguntas a seguir intentam responder à um desafio do clube Universidade dos Dados:
 
-Suponha que, em uma ação de marketing, para atrair mais entregadores, vamos dar uma bonificação para os 20 entregadores que possuem maior distância percorrida ao todo. A bonificação vai variar de acordo com o tipo de profissional que ele é e o modelo que ele usa para se locomover. É preciso levantar, então, essas informações.
-O time de Pricing precisa ajustar os valores pagos aos entregadores. Para isso, eles precisam da distribuição da distância média percorrida pelos motoqueiros separada por estado, já que cada região terá seu preço.
+1. Suponha que, em uma ação de marketing, para atrair mais entregadores, vamos dar uma bonificação para os 20 entregadores que possuem maior distância percorrida ao todo. A bonificação vai variar de acordo com o tipo de profissional que ele é e o modelo que ele usa para se locomover. É preciso levantar, então, essas informações.
+2. O time de Pricing precisa ajustar os valores pagos aos entregadores. Para isso, eles precisam da distribuição da distância média percorrida pelos motoqueiros separada por estado, já que cada região terá seu preço.
 
 As conclusões encontradas a partir da análise são:
 - Aproximadamente 72% dos entregadores são freelancers e aproximadamente 28% são operadores de logística
